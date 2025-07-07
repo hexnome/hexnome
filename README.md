@@ -8,9 +8,7 @@
 
 ### 🔧 Tech Stack & Interests
 - **Languages:** Rust, Solidity, Move, React/Next, Node/Express, Python, Golang
-- **Smart Contracts:** BTC, EVM (Ethereum), SOLANA, SVM (Aptos, Sui), zkVM
-- **Tools & Frameworks:** Alkanes, Arch, Foundry, Hardhat, Anchor, Substrate, CosmWasm
-- **Other Interests:** Fullstack, Zero-Knowledge Proofs, Modular Blockchains, Wallet UX, Gas Optimization
+- **Smart Contracts:** BTC, EVM (Ethereum), SOLANA, SVM (Aptos, Sui)
 
 ---
 
@@ -31,6 +29,5 @@
 - Building and forking innovative **DeFi & DEX protocols** on **Solana**  
 - Exploring the future of BTC with **Alkanes**  
 - Researching & applying **cutting-edge blockchain technologies** (modular chains, zk, L2s)  
-- Designing scalable, privacy-aware smart contracts for next-gen Web3 use cases
 
 ---
