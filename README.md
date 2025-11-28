@@ -21,7 +21,7 @@
 ### 📫 Contact Me
 - 🐦 Twitter: [@hexnome](https://twitter.com/hexnome)  
 - ✉️ Email: hexnome88@gmail.com  
-- 📲 Telegram: [`@Ee1030109`](https://t.me/Ee1030109)
+- 📲 Telegram: [`@Ee1030109`](https://t.me/gomezchaz)
 
 ---
 
